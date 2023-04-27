@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+  height: 100vh;
+}
+
+* {
+  box-sizing: border-box;
+  font-family: 'Poltawski Nowy', serif;
+}
+
+input, button {
+  font-family: inherit;
+  padding: 5px;
+  outline: none;
+  border: none;
+}
+
+body {
+  margin: 0;
+}
+
+button {
+  background: none;
+  cursor: pointer;
+}
+
+h1 {
+  font-size: 40px;
+}
